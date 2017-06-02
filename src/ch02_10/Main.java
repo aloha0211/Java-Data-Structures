@@ -19,19 +19,20 @@ public class Main {
 		set.add(kal);
 		System.out.println("There are " + set.size() + " olives in the set.");
 		set.add(pic);
-		System.out.println("There are " + set.size() + " olives in the set.");
-		set.add(lig);
-		System.out.println("There are " + set.size() + " olives in the set.");
-		set.add(null);
-		System.out.println("There are " + set.size() + " olives in the set.");
-		set.add(null);
-		System.out.println("There are " + set.size() + " olives in the set.");
-		set.remove(lig);
-		System.out.println("There are " + set.size() + " olives in the set.");
-		set.remove(lig);
-		System.out.println("There are " + set.size() + " olives in the set.");
-		set.remove(null);
-		System.out.println("There are " + set.size() + " olives in the set.");
+		System.out.println(set);
+//		System.out.println("There are " + set.size() + " olives in the set.");
+//		set.add(lig);
+//		System.out.println("There are " + set.size() + " olives in the set.");
+//		set.add(null);
+//		System.out.println("There are " + set.size() + " olives in the set.");
+//		set.add(null);
+//		System.out.println("There are " + set.size() + " olives in the set.");
+//		set.remove(lig);
+//		System.out.println("There are " + set.size() + " olives in the set.");
+//		set.remove(lig);
+//		System.out.println("There are " + set.size() + " olives in the set.");
+//		set.remove(null);
+//		System.out.println("There are " + set.size() + " olives in the set.");
 	}
 
 }
